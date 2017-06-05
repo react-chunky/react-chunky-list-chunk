@@ -1,0 +1,26 @@
+{
+  "name": "react-chunky-list-chunk",
+  "version": "0.2.1",
+  "description": "The Default Chunky List Chunk",
+  "scripts": {
+    "test": "react-native-savor test",
+    "coverage": "react-native-savor coverage",
+    "codeclimate": "react-native-savor codeclimate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/react-chunky/react-chunky-list-chunk.git"
+  },
+  "author": "I. Dan Calinescu <idancalinescu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/react-chunky/react-chunky-list-chunk/issues"
+  },
+  "homepage": "https://github.com/react-chunky/react-chunky-list-chunk",
+  "dependencies": {
+    "react-native-chunky": "0.7.x"
+  },
+  "devDependencies": {
+    "react-native-savor": "0.x"
+  }
+}

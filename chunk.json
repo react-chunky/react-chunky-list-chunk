@@ -1,0 +1,14 @@
+{
+  "name": "list",
+  "routes": {
+    "list": {
+      "title": "List",
+      "icon": "octicon/megaphone",
+      "actions": ["firebase://retrieve/items#retrieveItems"]
+    },
+    "details": {
+      "title": "Item Details"
+    }
+  },
+  "transitions": ["push://details#showDetails"]
+}

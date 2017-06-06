@@ -3,8 +3,7 @@
   "routes": {
     "list": {
       "title": "List",
-      "icon": "octicon/megaphone",
-      "actions": ["firebase://retrieve/items#retrieveItems"]
+      "icon": "octicon/megaphone"
     },
     "details": {
       "title": "Item Details"

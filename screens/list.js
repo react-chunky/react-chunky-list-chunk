@@ -11,5 +11,4 @@ export default class ItemsListScreen extends ListScreen {
       leftIcon: { name: 'code' }
     }
   } 
-
 }

@@ -3,7 +3,8 @@
   "routes": {
     "list": {
       "title": "List",
-      "icon": "octicon/megaphone"
+      "icon": "octicon/megaphone",
+      "retrieveDataOnMount": true
     },
     "details": {
       "title": "Item Details"

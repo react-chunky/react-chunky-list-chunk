@@ -4,11 +4,10 @@
     "list": {
       "title": "List",
       "icon": "octicon/megaphone",
-      "retrieveDataOnMount": true
     },
     "details": {
       "title": "Item Details"
     }
   },
-  "transitions": ["push://details#showDetails"]
+  "transitions": ["push://details"]
 }
